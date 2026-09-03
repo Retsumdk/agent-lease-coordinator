@@ -1,9 +1,0 @@
-[build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "agent_lease_coordinator"
-version = "0.1.0"
-readme = "README.md"
-license = {text = "MIT"}
